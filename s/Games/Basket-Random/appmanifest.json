@@ -2,7 +2,7 @@
 	"name": "Basket Random",
 	"short_name": "Basket Random",
 	"description": "",
-	"start_url": "index.html",
+	"start_url": "https://totallymathstuff.github.io/s/Games/Basket-Random/index.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"background_color": "#ffffff",
